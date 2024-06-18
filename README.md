@@ -106,7 +106,6 @@ This project is licensed under the MIT License.
 ### Acknowledgments
 
 - [OpenAI](https://www.openai.com/) for providing the image generation API.
-- [CodingNepal](https://www.codingnepalweb.com/) for inspiration and initial codebase.
 
 ```
 
